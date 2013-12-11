@@ -111,7 +111,7 @@ namespace lancraftcrust
 			this.MaximizeBox = false;
 			this.MinimizeBox = false;
 			this.Name = "MainForm";
-			this.Text = "lancraftcrust";
+			this.Text = "lancraftcrust 1.0beta";
 			this.ResumeLayout(false);
 			this.PerformLayout();
 		}

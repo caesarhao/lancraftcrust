@@ -169,6 +169,7 @@ namespace lancraftcrust
 				string ip = conf.getConf()[name];
 				if (null != ip){
 					SendMessage(heditIp, WM_SETTEXT, IntPtr.Zero, ip);
+					ShowWindow(hLancraft, 1);
 				}
 			}
 		}
